@@ -1,18 +1,17 @@
-<!-- Profile Header Image (Optional) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif">
-</p>
+<!-- Hero Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=280&section=header&text=RB%20Theekshana&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20React%20+%20PHP%20Dev%20%E2%80%A2%20Future%20Full-Stack%20Architect&descAlignY=58&descSize=20" />
+</div>
 
-<h1 align="center">Hi, I'm RB Theekshana 👋</h1>
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF006E&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=80&lines=🚀+Building+Full-Stack+Apps+with+React%2C+PHP%2C+and+Java;👨‍💻+Trainee+Engineer+at+Sri+Lanka+Customs" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  🌱 Trainee Software Engineer | 💡 Tech Enthusiast | 📍 Based in Matara, Sri Lanka  
-</p>
-
-<p align="center">
-  <a href="mailto:thibuddhi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Thika007"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://thika007.github.io/Theekshana_portfolio/"><img src="https://img.shields.io/badge/Portfolio-%2300C7B7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Thika007&label=Profile%20Views&color=8338EC&style=for-the-badge&logo=eye" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Thika007?label=Followers&style=for-the-badge&color=FF006E&logo=github" />
+  <img src="https://img.shields.io/badge/Location-Matara%2C%20Sri%20Lanka-FB5607?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
 ---
